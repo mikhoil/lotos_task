@@ -1,0 +1,1 @@
+export { withUsePersonFilmsHOC } from './withUsePersonFilms';

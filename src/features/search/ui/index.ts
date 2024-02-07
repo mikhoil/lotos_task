@@ -1,0 +1,2 @@
+export { UseSearchPeopleHOC } from './Search';
+

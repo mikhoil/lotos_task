@@ -1,0 +1,2 @@
+export { PersonFilms } from './PersonFilms';
+

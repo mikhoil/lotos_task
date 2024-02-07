@@ -1,0 +1,19 @@
+{
+    "arrowParens": "avoid",
+    "tabWidth": 2,
+    "semi": true,
+    "trailingComma": "all",
+    "singleQuote": true,
+    	"importOrder": [
+		"<THIRD_PARTY_MODULES>",
+		"^@/app/(.*)$",
+		"^@/entities/(.*)$",
+		"^@/features/(.*)$",
+		"^@/pages/(.*)$",
+		"^@/shared/(.*)$",
+		"^@/widgets/(.*)$",
+		"^../(.*)",
+		"^./(.*)",
+		"(.scss)$"
+	]
+}

@@ -1,0 +1,1 @@
+export { withUsePersonHOC } from './withUsePerson';
